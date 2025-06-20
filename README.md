@@ -82,15 +82,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kasairaito&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasairaito&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true&bg_color=151515&title_color=FF79C6&point=FF79C6&area_color=FF79C6&line=FF79C6&color=#C4CBD3" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasairaito/kasairaito/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasairaito/kasairaito/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kasairaito/kasairaito/output/pacman-contribution-graph.svg">
-</picture>
-
-###
