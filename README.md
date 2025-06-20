@@ -6,6 +6,18 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/nupx25tsnfhpgtmb8lk5v9vkz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nupx25tsnfhpgtmb8lk5v9vkz&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
+<h4 align="left">Tech:</h4>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
