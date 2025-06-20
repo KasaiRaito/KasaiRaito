@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/nupx25tsnfhpgtmb8lk5v9vkz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nupx25tsnfhpgtmb8lk5v9vkz&count=5&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nupx25tsnfhpgtmb8lk5v9vkz&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -84,6 +84,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasairaito/kasairaito/output/pacman-contribution-graph-dark.svg">
